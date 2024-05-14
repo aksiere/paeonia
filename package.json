@@ -1,0 +1,8 @@
+{
+	"name": "paeonia",
+	"module": "index.js",
+	"type": "module",
+	"version": "0.1.0",
+	"description": "A simple and lightweight on-demand CSS framework for UnoCSS",
+	"author": "aksiere"
+}
