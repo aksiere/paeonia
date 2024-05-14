@@ -1,2 +1,2 @@
-## Adaptive and lightweight CSS framework for UnoCSS
+## adaptive and lightweight css framework for unocss
 work-in-progress
